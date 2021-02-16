@@ -3,19 +3,19 @@
     flex-wrap: wrap;
 }
 .dice {
-    border: 1px solid black;
-    width: 2em;
-    height: 2em;
-    font-size: 5em;
+    /* border: 1px solid black; */
+    /* width: 2em; */
+    /* height: 2em; */
+    /* font-size: 5em; */
     display: flex;
     flex-flow: row wrap;
-    justify-content: center;
+    /* justify-content: center;
     align-items: center;
     border-radius: 0.5em;
     background-color: black;
     color: white;
     margin: 0.5em;
-    font-weight: 900;
+    font-weight: 900; */
 }
 #button-container {
     display: flex;
